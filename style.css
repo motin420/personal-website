@@ -1,0 +1,161 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+body{
+    font-size: 50px;
+    margin: 5px;
+    
+
+}
+section{
+    
+}
+.top{
+    padding-top: 16%;
+    padding-bottom: 10%;
+    
+    height: 750px;
+    width: 100%;
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    
+  
+}
+.half-width{
+    width: 45%;
+   
+    
+    
+}
+.half-width{
+    padding:10px;
+    width: 50%%;
+    
+    float: left;
+
+}
+
+}
+
+h1{
+    color: brown;
+
+}
+
+
+.half-width img{
+    width: 100%;
+}
+p{
+    font-size: 20px;
+}
+.text{
+    padding-top: 20%;
+    padding-left: 30%;
+}
+.half-width .text a{
+    text-decoration: none;
+    padding: 10px;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    font-size: 25px;
+    border-radius: 5px;
+}
+.middle{
+    padding-top: 16%;
+    padding-bottom: 10%;
+    height: 750px;
+    width: 100%;
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    
+    background-size: cover;}
+    .bimg{
+        padding: 10%;
+    }
+    .work{
+        height: 500px;
+        width: 100%;
+        background-image: url(latest-work-bg.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    h2{
+        text-align: center;
+        margin-top: 20px;
+        padding: auto;
+        margin-bottom: 30px;
+    
+    }
+    .allimg{
+        width: 100%;
+        align-items: center;
+        padding: 2%;
+    }
+    .img3{
+        width: 27%;
+        padding: 2%;
+        margin-top: 20px;
+    }
+.foooter{
+    height: 600px;
+    width: 100%;
+    background-image: url(footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+
+}
+.review{
+    text-align: center;
+    margin-top: 50px;
+}
+.hthree{
+    margin-top: 10px;
+    margin-bottom: 60px;
+
+}
+.hsix{
+    font-size: 20px;
+
+}
+.bio{
+font-size: 10px;
+margin-bottom: 40px;
+}
+.msg{
+    font-size: 15px;
+    margin-bottom: 80px;
+
+}
+.high-light{
+    
+    text-align: center;
+    width: 50%;
+    padding: 40px;
+    background-image: linear-gradient(45deg,rgb(82, 224, 39),rgb(42, 230, 220));
+    margin: 0 auto;
+    align-items: center;
+    color: rgb(255, 255, 255);
+
+}
+.msg1{
+    font-size: 18px;
+    margin-bottom: 29px;
+
+}
+.email{
+    font-weight: 700;
+    font-size: 25px;
+
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+
